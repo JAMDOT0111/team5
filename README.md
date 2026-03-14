@@ -18,7 +18,7 @@ git pull origin main
 git checkout -b <branch_name>
 ```
 
-### 2. Implementation & Commit
+### 2. Sync with Main
 ```bash
 # 更新本地的 main 資訊
 git fetch origin main
